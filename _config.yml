@@ -27,11 +27,28 @@ url: "https://goldlamp95.github.io" # the base hostname & protocol for your site
 twitter_username: Sangyoon Chung
 github_username:  Sangyoon Chung 
 
+author: Sangyoon Chung
+linkedin_username: Sangyoon Chung
+youtube_username: Sangyoon Chung
+
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyrihgt symbol and year will be added automatically
+# copyrihgt: Company Name Inc.
+copyright: "Sangyoon Corp."
 # Build settings
 # theme: minima
 
+
+title-logo: /images/title-logo.png
+
+
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
