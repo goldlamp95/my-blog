@@ -41,12 +41,15 @@ copyright: "Sangyoon Corp."
 
 
 title-logo: /images/title-logo.png
-
+ 
 
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  
+  
+  
 
 
 
@@ -63,7 +66,7 @@ plugins:
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
-#   - Gemfile.lock
+#   - Gemfile.lockb
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
